@@ -3,6 +3,7 @@
 // Лабораторна робота No 2.
 // Лінійні програми.
 // Варіант 2
+
 #include <iostream>
 #include <cmath>
 using namespace std;
